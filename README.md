@@ -4,7 +4,7 @@
 - 🛠️ My skills at the moment include JavaScript, PHP, MySQL, Django, CSS and of course HTML.
 - 📖 I’m currently learning React and Docker.
 - 👀 I’m interested in any kind of technology, tools, hardware and software.
-- Fun fact: I used to produce music and sell them online. I actually wasn't that bad either. 🤷👉 [<img alt="YouTube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1617783914~hmac=8e97f6a7e1e1faa024216a0c0b04d35d" />][youtube]
+- Fun fact: I used to produce music and sell them online.👉 [<img alt="YouTube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1617783914~hmac=8e97f6a7e1e1faa024216a0c0b04d35d" />][youtube]
 
 
 ### 🌐 Check out my [portfolio] to see what I have been working on...
